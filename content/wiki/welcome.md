@@ -7,7 +7,7 @@ category: 1. General
 order: 1
 ---
 
-This website is a template and framework for building 
+This website is part of a framework for building 
 an [open-source](https://opensource.org/licenses/MIT) 
 community of
 linked Buddhist websites hosted on Github.
