@@ -1,7 +1,8 @@
 ---
 title: Welcome to my Early Buddhist Texts study site!
 description: Wiki welcome page
-img: amanda-flavell-9XSLoMlVhYU-unsplash.png
+img: ![aradhika-sharma-zZs5Hbsi0G8-unsplash](https://user-images.githubusercontent.com/84634514/119237864-1cf94800-bb0d-11eb-8396-875fe63fd839.jpg)
+
 img-alt: A picture of the Buddha
 category: 1. General
 order: 1
@@ -11,7 +12,8 @@ This website is part of a framework for building
 an [open-source](https://opensource.org/licenses/MIT) 
 community of
 linked Buddhist websites hosted on Github.
-I'm still figuring out how to update and upload new material, so stay tuned!
+
+I'm still figuring out how to update and upload new material, so stay tuned! I hope to include many of my favourite resources related to the EBTs, as well as my notes on particular texts.
 
 ### Study or review the EBTs with ease:
 
@@ -34,6 +36,6 @@ I'm still figuring out how to update and upload new material, so stay tuned!
 When you're ready, go ahead and
 [create your own EBT site](/author/build-site)!
 
-![DSC_9191](https://user-images.githubusercontent.com/84634514/119237356-64320980-bb0a-11eb-9bd9-8ebd8dffda30.JPG)
+![DSC_9190 (2)](https://user-images.githubusercontent.com/84634514/119237584-9859fa00-bb0b-11eb-9c8a-90474f9aea74.JPG)
 
 
