@@ -7,7 +7,7 @@ img-alt: A picture of a lotus
 category: 1. General
 order: 1
 ---
-
+Welcome!
 This website is part of a framework for building 
 an [open-source](https://opensource.org/licenses/MIT) 
 community of
