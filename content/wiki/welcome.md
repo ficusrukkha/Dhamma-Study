@@ -1,5 +1,5 @@
 ---
-title: Welcome to EBT-Site
+title: Welcome to my Early Buddhist Texts study site!
 description: Wiki welcome page
 img: amanda-flavell-9XSLoMlVhYU-unsplash.png
 img-alt: A picture of the Buddha
@@ -11,6 +11,7 @@ This website is part of a framework for building
 an [open-source](https://opensource.org/licenses/MIT) 
 community of
 linked Buddhist websites hosted on Github.
+I'm still figuring out how to update and upload new material, so stay tuned!
 
 ### Study or review the EBTs with ease:
 
