@@ -1,7 +1,7 @@
 ---
 title: Welcome to my Early Buddhist Texts study site!
 description: Wiki welcome page
-img: ![aradhika-sharma-zZs5Hbsi0G8-unsplash](https://user-images.githubusercontent.com/84634514/119237864-1cf94800-bb0d-11eb-8396-875fe63fd839.jpg)
+img: amanda-flavell-9XSLoMlVhYU-unsplash.png
 
 img-alt: A picture of the Buddha
 category: 1. General
