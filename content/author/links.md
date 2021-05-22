@@ -8,7 +8,7 @@ order: 9999
 ---
 
 ## Absolute Links
-Absolute links start with `https://`.
+Absolute links start with a `https://`.
 Absolute links are great for moving the browser to 
 another website. Here's the Markdown you 
 would enter for an absolute link to SuttaCentral:
