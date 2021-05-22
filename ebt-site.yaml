@@ -6,12 +6,12 @@
 # --------------
 # Specifies the text shown in the upper left corner 
 # of the EBT website
-ebt_site_title: My Dhamma study site
+ebt_site_title: My-EBT-study-site
 
 # ebt_site_image
 # --------------
 # Specifies the image used in the upper left corner of the EBT website
-ebt_site_image:tianhao-zhang-N6T6J_l-Xuk-unsplash.png
+ebt_site_image: tianhao-zhang-N6T6J_l-Xuk-unsplash.png
 
 # ebt_site_lang
 # -------------
