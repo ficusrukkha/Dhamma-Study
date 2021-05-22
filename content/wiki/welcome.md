@@ -1,9 +1,9 @@
 ---
 title: Welcome to my Early Buddhist Texts study site!
 description: Wiki welcome page
-img: amanda-flavell-9XSLoMlVhYU-unsplash.png
+img: tianhao-zhang-N6T6J_l-Xuk-unsplash.png
 
-img-alt: A picture of the Buddha
+img-alt: A picture of a lotus
 category: 1. General
 order: 1
 ---
