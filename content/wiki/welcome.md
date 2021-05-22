@@ -34,3 +34,6 @@ I'm still figuring out how to update and upload new material, so stay tuned!
 When you're ready, go ahead and
 [create your own EBT site](/author/build-site)!
 
+![DSC_9191](https://user-images.githubusercontent.com/84634514/119237356-64320980-bb0a-11eb-9bd9-8ebd8dffda30.JPG)
+
+
