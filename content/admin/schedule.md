@@ -14,7 +14,7 @@ on the following schedule. All times are UTC.
 
 ### Schedule
 EBT-Site is updated every 8 hours as SuttaCentral data changes.
-In particular, the following schedule is not a guarantee. 
+In particular, the following schedule isn't a guarantee. 
 Github Actions can be delayed for an hour or more significantly 
 if no resources are available.
 
