@@ -11,7 +11,8 @@ Welcome!
 This website is part of a framework for building 
 an [open-source](https://opensource.org/licenses/MIT) 
 community of
-linked Buddhist websites hosted on Github.
+linked Buddhist websites hosted on Github. At the same time, 
+it is a website designed for Sutta study.
 
 I'm still figuring out how to update and upload new material, so stay tuned! I hope to include many of my favourite resources related to the EBTs, as well as my notes on particular texts.
 
